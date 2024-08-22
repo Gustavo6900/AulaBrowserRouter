@@ -7,7 +7,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <BrowserRouter>
      <Routes>
-        <Route path='/' from { <Home/>} />
+        <Route path='/' element = { <Home/>} />
         <Route/>
         <Route/>
      </Routes>
