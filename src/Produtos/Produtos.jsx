@@ -2,7 +2,7 @@ import ListarProdutos from "../components/ListarProdutos";
 import Footer from "../components/Footer";
 import Header from "../components/Header";
 import { useState } from "react";
-import"./globals.css"
+
 
 export default function Produtos (){
 

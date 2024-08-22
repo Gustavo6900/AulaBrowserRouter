@@ -1,10 +1,10 @@
-import React from 'react'
-import ReactDOM from 'react-dom/client'
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import Home from './Home'
-import Ofertas from './Ofertas/Ofertas'
-import Produtos from './Produtos/Produtos'
-
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import Home from './Home';
+import Ofertas from './Ofertas/Ofertas';
+import Produtos from './Produtos/Produtos';
+import"./globals.css";
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>

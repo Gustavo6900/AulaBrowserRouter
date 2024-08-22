@@ -2,8 +2,8 @@
 
 export default function Header (){
     return(
-        <di>
+        <div className="nomeLoja">
             <h1>Loja Legal</h1>
-        </di>
+        </div>
     )
 }

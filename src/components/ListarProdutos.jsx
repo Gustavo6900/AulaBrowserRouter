@@ -7,12 +7,12 @@ export default function ListarProdutos ( {props}){
         
             {
                 props.map((produto)=>
-                    <di key= {produto.id}>
-                        <h1>{produto.title}</h1>
-                        <h2>{produto.marca}</h2>
-                        <img src= {produto.imagem}/>
-                        <p>{produto.cor}</p>
-                        <p>{produto.preco}</p>
+                    <di className= "Card" key= {produto.id}>
+                        <h1 className="titulo">{produto.title}</h1>
+                        <h2 className="marca">{produto.marca}</h2>
+                        <img className="imagem" src= {produto.imagem}/>
+                        <p className="cor">{produto.cor}</p>
+                        <p className="preco">{produto.preco}</p>
                     </di>
                 )
             }
