@@ -30,8 +30,11 @@ export default function Home (){
                 <img src="https://tse3.mm.bing.net/th?id=OIP.Y9k4YWtvNarBgkC1yV8oJgHaD4&pid=Api&P=0&h=180"/>
             </div>
             <div>
-                <img src="https://tse4.mm.bing.net/th?id=OIP.ssr1ayJmC5tPlMkYGPBh-QHaEo&pid=Api&P=0&h=180"/>
+                <img src="https://tse4.mm.bing.net/th?id=OIP.IFp-k0E6RWJA0l1V4BtYGQHaEK&pid=Api&P=0&h=180"/>
             </div>
+            <di>
+                <img src="https://tse4.mm.bing.net/th?id=OIP.f2sfYQM2NbWocOT9b1vfkgHaEK&pid=Api&P=0&h=180"  />
+            </di>
           </Carousel>
             <ListarProdutos props = {lista}/>
             <Footer/>

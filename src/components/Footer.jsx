@@ -2,9 +2,9 @@
 
 export default function Footer(){
     return(
-        <di>
-            <h1 className="nome">
-                Feito por Seu pai
+        <di className="nome">
+            <h1 >
+                Gustavo
             </h1>
         </di>
     )

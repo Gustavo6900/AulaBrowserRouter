@@ -13,6 +13,7 @@ export default function ListarProdutos ( {props}){
                         <h2 className="marca">Marca:{produto.marca}</h2>
                         <p className="cor">Cores: {produto.cor}</p>
                         <p className="preco">Preco: ${produto.preco}</p>
+                        <button className="botao">Comprar</button>
                     </div>
                 )
             }
