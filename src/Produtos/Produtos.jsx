@@ -7,11 +7,11 @@ import { useState } from "react";
 export default function Produtos (){
 
     const [lista, setlista] = useState ([
-        {id: 1, preco: 20000000, title: "Lamborghini Aventador SVJ", cor: ["Preto ","Vermelho ","Marrom"], marca: "Lamborghini", imagem: "https://tse4.mm.bing.net/th?id=OIP.JugBMBp7ummagJNe8rvC0AHaD4&pid=Api&P=0&h=180"},
-        {id: 2, preco: 20, title: "Lamborghini Huracan", cor: ["Preto ","Laranja ","Amarelo "], marca: "Lamborghini", imagem: "https://tse2.mm.bing.net/th?id=OIP.ZJXL8xSHXS3KpSxLs9zvMwHaEh&pid=Api&P=0&h=180"},
-        {id: 3, preco: 20, title: "Ferrari SF90 Stradale", cor: ["Vermelho ","Preto ","Branca "], marca: "Ferrari", imagem: "https://tse3.mm.bing.net/th?id=OIP.mN5_kmdsn0U-HS4S2P8FBgHaEK&pid=Api&P=0&h=180"},
-        {id: 4, preco: 20, title: "Ferrari LaFerrari", cor: ["Vermelho ","Amarelo ","Cinza " ], marca: "Ferrari", imagem: "https://tse4.mm.bing.net/th?id=OIP.fwotvtQzcIf3MyRgHJQovAHaEK&pid=Api&P=0&h=180"},
-        {id: 5, preco: 20, title: "Porsche 991 GT3", cor: ["Cinza ","Vermelho ","Azul "], marca: "Porsche", imagem: "https://tse2.mm.bing.net/th?id=OIP.vAXmRfnwOl_VahaMaMRneAHaEo&pid=Api&P=0&h=180"},
+        {id: 1, preco: 2000000, title: "Lamborghini Aventador SVJ", cor: ["Preto ","Vermelho ","Marrom"], marca: "Lamborghini", imagem: "https://tse4.mm.bing.net/th?id=OIP.JugBMBp7ummagJNe8rvC0AHaD4&pid=Api&P=0&h=180"},
+        {id: 2, preco: 200000, title: "Lamborghini Huracan", cor: ["Preto ","Laranja ","Amarelo "], marca: "Lamborghini", imagem: "https://tse2.mm.bing.net/th?id=OIP.ZJXL8xSHXS3KpSxLs9zvMwHaEh&pid=Api&P=0&h=180"},
+        {id: 3, preco: 900000, title: "Ferrari SF90 Stradale", cor: ["Vermelho ","Preto ","Branca "], marca: "Ferrari", imagem: "https://tse3.mm.bing.net/th?id=OIP.mN5_kmdsn0U-HS4S2P8FBgHaEK&pid=Api&P=0&h=180"},
+        {id: 4, preco: 4000000, title: "Ferrari LaFerrari", cor: ["Vermelho ","Amarelo ","Cinza " ], marca: "Ferrari", imagem: "https://tse4.mm.bing.net/th?id=OIP.fwotvtQzcIf3MyRgHJQovAHaEK&pid=Api&P=0&h=180"},
+        {id: 5, preco: 150000, title: "Porsche 991 GT3", cor: ["Cinza ","Vermelho ","Azul "], marca: "Porsche", imagem: "https://tse2.mm.bing.net/th?id=OIP.vAXmRfnwOl_VahaMaMRneAHaEo&pid=Api&P=0&h=180"},
         {id: 6, preco: 90000, title: "BMW M3", cor: ["Verde ","Azul ","Preto "], marca: "BMW", imagem: "https://tse3.mm.bing.net/th?id=OIP.VLdQIb5P-RBIgEmmgmWYPQHaE8&pid=Api&P=0&h=180"},
         {id: 7, preco: 100000, title: "BMW M5", cor: ["Azul ","Preto ","Cinza "], marca: "BMW", imagem: "https://tse4.mm.bing.net/th?id=OIP.3ki1IAVNLDzZPAneC3Oe3wHaEK&pid=Api&P=0&h=180"},
         {id: 8, preco: 250000, title: "Mercedez-Benz AMG GT", cor: ["Cinza ","Verde ","Azul "], marca: "Mercedez-Benz", imagem: "https://tse1.mm.bing.net/th?id=OIP.FIW1D0Xdz5YfUJ9lpxkM1AHaE7&pid=Api&P=0&h=180"},

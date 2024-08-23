@@ -8,12 +8,11 @@ h1, h2, p{
 }
 
 .nomeLoja{
-    position: static;
-    text-align: center;
-    justify-content: center
+    
 }
 
 .opcoes{
+    margin-right: auto;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -35,7 +34,7 @@ h1, h2, p{
 .nav{
     background-color: rgb(148, 148, 148);
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
 }
 

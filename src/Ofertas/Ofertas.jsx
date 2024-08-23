@@ -14,9 +14,9 @@ export default function Ofertas(){
         {id: 10, preco: 400000, title: "Ferrari 488 PISTA", cor: ["Cinza ","Azul ","Vermelho "], marca: "Ferrari", imagem: "https://tse1.mm.bing.net/th?id=OIP.Rw7v2aKg1C-k9jpW3r09UQHaEK&pid=Api&P=0&h=180"},
         {id: 11, preco: 3000000, title: "McLaren Senna", cor: ["Amarelo ","Vermelho ","Azul "], marca: "McLaren", imagem: "https://tse3.mm.bing.net/th?id=OIP.4HNj-FBLNO6Q6wDlNJApOAHaDt&pid=Api&P=0&h=180"},
         {id: 12, preco: 10000000, title: "Ferrari F40", cor: ["Vermelho","Branco ","Amarelo "], marca: "Ferrari", imagem: "https://tse3.mm.bing.net/th?id=OIP.aFIgUYn1EixxPITkAD8BkwHaFj&pid=Api&P=0&h=180"},
-        {id: 13, preco: 1, title: "Audi R8", cor: ["Cinza ","Azul ","Vermelho "], marca: "Audi", imagem: "https://tse1.mm.bing.net/th?id=OIP.3gEWGibiy0Nz4yX-o1AXBQHaE8&pid=Api&P=0&h=180"},
-        {id: 14, preco: 1, title: "McLaren 720s", cor: ["Laranja ","Preto ","Azul "], marca: "McLaren", imagem: "https://tse1.mm.bing.net/th?id=OIP.cWnmzloyUh_PIQfElpclMwHaEK&pid=Api&P=0&h=180"},
-        {id: 15, preco: 1, title: "McLaren P1", cor: ["Amarelo ","Branco ","Laranja "], marca: "McLaren", imagem: "https://tse1.mm.bing.net/th?id=OIP.yLaSAQxTPDOO3g1dE3SGJQHaEA&pid=Api&P=0&h=180"},
+        {id: 13, preco: 10000, title: "Audi R8", cor: ["Cinza ","Azul ","Vermelho "], marca: "Audi", imagem: "https://tse1.mm.bing.net/th?id=OIP.3gEWGibiy0Nz4yX-o1AXBQHaE8&pid=Api&P=0&h=180"},
+        {id: 14, preco: 300000, title: "McLaren 720s", cor: ["Laranja ","Preto ","Azul "], marca: "McLaren", imagem: "https://tse1.mm.bing.net/th?id=OIP.cWnmzloyUh_PIQfElpclMwHaEK&pid=Api&P=0&h=180"},
+        {id: 15, preco: 3000000, title: "McLaren P1", cor: ["Amarelo ","Branco ","Laranja "], marca: "McLaren", imagem: "https://tse1.mm.bing.net/th?id=OIP.yLaSAQxTPDOO3g1dE3SGJQHaEA&pid=Api&P=0&h=180"},
     ])
     
 
