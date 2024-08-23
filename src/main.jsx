@@ -6,6 +6,7 @@ import Ofertas from './Ofertas/Ofertas';
 import Produtos from './Produtos/Produtos';
 import"./globals.css";
 
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <BrowserRouter>
